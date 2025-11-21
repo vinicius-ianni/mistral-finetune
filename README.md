@@ -533,3 +533,9 @@ You can use the following script to find out: https://github.com/mistralai/mistr
 > - What should I do if I encounter a CUDA out-of-memory error?
   
 One possible solution is to reduce the batch size per GPU. The batch size is equal to `seq_len` x `batch_size`. Try setting `batch_size` to 1 and reduce `seq_len`. You can define the `batch_size` and `seq_len` in the .yaml file.
+
+## License
+
+This library is licensed under the Apache 2.0 License. See the [LICENCE](./LICENCE) file for more information.
+
+*You must not use this library or our models in a manner that infringes, misappropriates, or otherwise violates any third party’s rights, including intellectual property rights.*
