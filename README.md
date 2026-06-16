@@ -1,5 +1,11 @@
 # Mistral-finetune
 
+## ⚠️ Archived — no longer maintained
+
+This repository is archived and no longer actively maintained. We may launch a new library or a major update in the future if the community needs it or we believe we can bring value to the fine-tuning ecosystem.
+
+---
+
 <a target="_blank" href="https://colab.research.google.com/github/mistralai/mistral-finetune/blob/main/tutorials/mistral_finetune_7b.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
